@@ -1,5 +1,7 @@
 https://user-fake.vercel.app/dados.json
 
+importações - npm i jest   &   npm i cross-env
+
 [
   {
     "id": 1,
