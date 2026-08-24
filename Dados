@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nome": "Ana Silva",
+    "senha": "Ana#2026!Pass",
+    "papel": "adm"
+  },
+  {
+    "id": 2,
+    "nome": "Bruno Costa",
+    "senha": "B1uN0_c0st4",
+    "papel": "usuário"
+  },
+  {
+    "id": 3,
+    "nome": "Carla Souza",
+    "senha": "C@rl4_S0uz4",
+    "papel": "usuário"
+  },
+  {
+    "id": 4,
+    "nome": "Diego Lima",
+    "senha": "D!3g0_L1m4",
+    "papel": "usuário"
+  },
+  {
+    "id": 5,
+    "nome": "Elena Rocha",
+    "senha": "E13n4_R0ch4",
+    "papel": "adm"
+  },
+  {
+    "id": 6,
+    "nome": "Fernando Alves",
+    "senha": "F3rn@nd0_2026",
+    "papel": "usuário"
+  },
+  {
+    "id": 7,
+    "nome": "Gabriela Mendes",
+    "senha": "G@b!_M3nd3s",
+    "papel": "usuário"
+  },
+  {
+    "id": 8,
+    "nome": "Henrique Santos",
+    "senha": "H3nr!qu3_S",
+    "papel": "usuário"
+  },
+  {
+    "id": 9,
+    "nome": "Isabela Ferreira",
+    "senha": "!s@b3l4_F3rr",
+    "papel": "usuário"
+  },
+  {
+    "id": 10,
+    "nome": "João Pereira",
+    "senha": "J0@o_P3r3!r4",
+    "papel": "usuário"
+  }
+]
